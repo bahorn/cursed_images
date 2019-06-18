@@ -7,3 +7,7 @@ makes distorted meme pictures for you
 * Make two folders called `tests` and `output`
 * Drop the images you want distorted into `tests`
 * Run `make` in the repo and you should have cursed_images :)
+
+## Notes
+
+Based on the guide avaiable here: https://ntcore.com/?p=509
